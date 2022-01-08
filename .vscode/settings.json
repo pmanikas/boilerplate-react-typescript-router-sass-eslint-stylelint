@@ -1,0 +1,9 @@
+{
+  "eslint.format.enable": true,
+  "stylelint.validate": [
+    "css",
+    "less",
+    "postcss",
+    "scss"
+  ]
+}
