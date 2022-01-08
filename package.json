@@ -1,7 +1,13 @@
 {
-  "name": "try-this-at-home",
+  "name": "boilerplate-react-typescript-router-sass-eslint-stylelint",
   "version": "0.1.0",
   "private": true,
+  "description": "React boilerplate with: React router, TypeScript, ESLint, Stylelint and Sass",
+  "author": {
+    "email": "hello@pantelismanikas.com",
+    "name": "Pantelis Manikas",
+    "url": "https://pantelismanikas.com"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
